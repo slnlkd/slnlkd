@@ -42,3 +42,24 @@ Welcome to my Github page! I am Lvkedang and I am currently Learning NLP and RL!
 </p>
 <sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/Lvkedang/Lvkedang/img/pic.jpg)</sub>
 If you want to know more, please refer to the my [website](https://Lvkedang.github.io).
+
+# Languages & Techologies<br>
+
+
+![JavaScipt](https://img.shields.io/badge/JavaScript-blue)
+![HTML](https://img.shields.io/badge/html-yellow)
+![Css](https://img.shields.io/badge/Css-green)
+![Vue.js](https://img.shields.io/badge/Vue.js-pink)
+![Python](https://img.shields.io/badge/Python-purple)
+![C](https://img.shields.io/badge/C-orange)
+![Java](https://img.shields.io/badge/Java-gray)
+![SQL](https://img.shields.io/badge/SQL-black)
+![R](https://img.shields.io/badge/R-silver)
+![Git](https://img.shields.io/badge/Git-gold)
+![Sas](https://img.shields.io/badge/Sas-rose)
+
+
+
+<br/>  
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhongzhu0217&theme=dark&layout=compact&cache_seconds=30)
