@@ -1,65 +1,61 @@
-### Hi there 👋 This is Lvkedang ！✨ 
- 
- 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Lvkedang)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Lvkedang--58440b101/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Lvkedang249@gmail.com)
- 
-Welcome to my Github page! I am Lvkedang and I am currently Learning NLP and RL!  
- 
-<img align="right" alt="img" src="https://github.com/Lvkedang/Lvkedang/blob/main/img/pic.jpg" width="50%" height="auto" />
- 
- 
-#### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
-- [My website](https://Lvkedang.github.io) 🚀 *coming soon*
- 
- 
-#### ⚡ Things recent ones I'm interested in ⚡ : 
-- Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
-#### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
-#### :computer: Programming languages and tools :computer: : 
-<p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Lvkedang&show_icons=true&hide_border=true" />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
+<h1 align="center">Hi, 我是 slnlkd 👋</h1>
+<p align="center">
+  专注于 <b>效率工具</b>、<b>中文输入体验</b> 和 <b>AI 应用落地</b>
 </p>
-<sub>Credits to: <br/>[Stable Diffusion](https://stablediffusionweb.com) for the wonderfull [picture](https://github.com/Lvkedang/Lvkedang/img/pic.jpg)</sub>
-If you want to know more, please refer to the my [website](https://Lvkedang.github.io).
 
-# Languages & Techologies<br>
+<p align="center">
+  <a href="https://github.com/slnlkd">
+    <img src="https://komarev.com/ghpvc/?username=slnlkd&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/slnlkd?tab=followers">
+    <img src="https://img.shields.io/github/followers/slnlkd?label=Followers&style=flat" />
+  </a>
+  <a href="https://github.com/slnlkd/flypy-typing">
+    <img src="https://img.shields.io/github/stars/slnlkd/flypy-typing?style=flat&label=flypy-typing%20Stars" />
+  </a>
+</p>
 
+---
 
-![JavaScipt](https://img.shields.io/badge/JavaScript-blue)
-![HTML](https://img.shields.io/badge/html-yellow)
-![Css](https://img.shields.io/badge/Css-green)
-![Vue.js](https://img.shields.io/badge/Vue.js-pink)
-![Python](https://img.shields.io/badge/Python-purple)
-![C](https://img.shields.io/badge/C-orange)
-![Java](https://img.shields.io/badge/Java-gray)
-![SQL](https://img.shields.io/badge/SQL-black)
-![R](https://img.shields.io/badge/R-silver)
-![Git](https://img.shields.io/badge/Git-gold)
-![Sas](https://img.shields.io/badge/Sas-rose)
+## 🚀 代表项目
 
+### 1) flypy-typing（主推）
+> 小鹤双拼打字练习：单字/文章、实时统计、错字分析。
 
+- 技术栈：React 19 + TypeScript + Vite + Zustand + Tailwind CSS
+- 核心功能：实时速度/准确率、限时训练、历史记录、高频错字统计
+- 项目地址：[slnlkd/flypy-typing](https://github.com/slnlkd/flypy-typing)
 
-<br/>  
+### 2) chatgpt-on-wechat
+> 微信公众号 AI 机器人（低成本部署方向）
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhongzhu0217&theme=dark&layout=compact&cache_seconds=30)
+- 项目地址：[slnlkd/chatgpt-on-wechat](https://github.com/slnlkd/chatgpt-on-wechat)
+
+### 3) TrendRadar
+> 热点聚合 + AI 分析工具（多平台舆情追踪）
+
+- 项目地址：[slnlkd/TrendRadar](https://github.com/slnlkd/TrendRadar)
+
+---
+
+## 🧰 我常用的技术
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,python,docker,git,linux" />
+</p>
+
+---
+
+## 📈 开发状态
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=slnlkd&show_icons=true&hide_border=true&locale=cn" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slnlkd&layout=compact&hide_border=true&locale=cn" />
+</p>
+
+---
+
+## 📫 联系我
+
+- GitHub: [@slnlkd](https://github.com/slnlkd)
+- 欢迎提 Issue / PR，一起把项目做得更好。
