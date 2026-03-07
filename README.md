@@ -49,9 +49,10 @@
 ## 📈 开发状态
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=slnlkd&show_icons=true&hide_border=true&locale=cn" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slnlkd&layout=compact&hide_border=true&locale=cn" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slnlkd&theme=github" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slnlkd&theme=github" />
 </p>
+
 
 ---
 
