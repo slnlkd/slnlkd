@@ -1,44 +1,41 @@
-<h1 align="center">Hi, 我是 slnlkd 👋</h1>
+<h1 align="center">slnlkd / Lvkedang</h1>
 <p align="center">
-  专注于 <b>效率工具</b>、<b>中文输入体验</b> 和 <b>AI 应用落地</b>
+  中文开发者 · 效率工具 · AI 应用落地
 </p>
 
 <p align="center">
-  <a href="https://github.com/slnlkd">
-    <img src="https://komarev.com/ghpvc/?username=slnlkd&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
   <a href="https://github.com/slnlkd?tab=followers">
-    <img src="https://img.shields.io/github/followers/slnlkd?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/slnlkd?style=flat&label=Followers" />
   </a>
-  <a href="https://github.com/slnlkd/flypy-typing">
+  <a href="https://github.com/slnlkd/flypy-typing/stargazers">
     <img src="https://img.shields.io/github/stars/slnlkd/flypy-typing?style=flat&label=flypy-typing%20Stars" />
   </a>
+  <a href="https://github.com/slnlkd/flypy-typing/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/slnlkd/flypy-typing?style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🚀 代表项目
+## 关于我
 
-### 1) flypy-typing
-> 小鹤双拼打字练习：单字/文章、实时统计、错字分析。
-
-- 技术栈：React 19 + TypeScript + Vite + Zustand + Tailwind CSS
-- 核心功能：实时速度/准确率、限时训练、历史记录、高频错字统计
-- 项目地址：[slnlkd/flypy-typing](https://github.com/slnlkd/flypy-typing)
-
-### 2) chatgpt-on-wechat
-> 微信公众号 AI 机器人（低成本部署方向）
-
-- 项目地址：[slnlkd/chatgpt-on-wechat](https://github.com/slnlkd/chatgpt-on-wechat)
-
-### 3) TrendRadar
-> 热点聚合 + AI 分析工具（多平台舆情追踪）
-
-- 项目地址：[slnlkd/TrendRadar](https://github.com/slnlkd/TrendRadar)
+- 正在做：输入效率工具、信息聚合与 AI 分析工具
+- 技术偏好：TypeScript / React / Python / Docker
+- 目标：把「能用」的小工具做成「长期可用」的产品
 
 ---
 
-## 🧰 我常用的技术
+## 代表项目
+
+| 项目 | 简介 | 技术栈 |
+|---|---|---|
+| [flypy-typing](https://github.com/slnlkd/flypy-typing) | 小鹤双拼打字练习：单字/文章、实时统计、错字分析 | React + TypeScript + Vite + Zustand |
+| [chatgpt-on-wechat](https://github.com/slnlkd/chatgpt-on-wechat) | 微信公众号 AI 机器人（低成本部署） | Python |
+| [TrendRadar](https://github.com/slnlkd/TrendRadar) | 多平台热点聚合 + AI 分析 | Python |
+
+---
+
+## 技术栈
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,python,docker,git,linux" />
@@ -46,17 +43,16 @@
 
 ---
 
-## 📈 开发状态
+## 开发状态
 
 <p>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slnlkd&theme=github" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slnlkd&theme=github" />
 </p>
 
-
 ---
 
-## 📫 联系我
+## 联系方式
 
 - GitHub: [@slnlkd](https://github.com/slnlkd)
-- 欢迎提 Issue / PR，一起把项目做得更好。
+- 欢迎提 Issue / PR 交流
