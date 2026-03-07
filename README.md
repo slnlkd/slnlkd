@@ -19,7 +19,7 @@
 
 ## 🚀 代表项目
 
-### 1) flypy-typing（主推）
+### 1) flypy-typing
 > 小鹤双拼打字练习：单字/文章、实时统计、错字分析。
 
 - 技术栈：React 19 + TypeScript + Vite + Zustand + Tailwind CSS
