@@ -1,121 +1,103 @@
-<h1 align="center">Hi, I'm slnlkd (Lvkedang)</h1>
+<h1 align="center">Lvkedang / slnlkd</h1>
+
 <p align="center">
-  <b>中文开发者 / 独立构建者</b><br/>
-  聚焦效率工具、中文输入体验与 AI 应用落地
+  <b>全栈开发者，关注业务系统、效率工具与 AI 工作流落地</b><br/>
+  使用 C#、TypeScript、Python 构建可部署、可维护、能解决实际问题的应用。
 </p>
 
 <p align="center">
   <a href="https://github.com/slnlkd?tab=followers">
-    <img src="https://img.shields.io/github/followers/slnlkd?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/slnlkd?label=Followers&style=flat-square" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/slnlkd/flypy-typing/stargazers">
-    <img src="https://img.shields.io/github/stars/slnlkd/flypy-typing?label=flypy-typing%20Stars&style=flat" />
+  <a href="https://github.com/slnlkd?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-22-blue?style=flat-square" alt="Public repositories" />
   </a>
-  <a href="https://github.com/slnlkd/flypy-typing/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/slnlkd/flypy-typing?style=flat" />
+  <a href="https://github.com/slnlkd/flypy-typing">
+    <img src="https://img.shields.io/github/stars/slnlkd/flypy-typing?label=flypy--typing&style=flat-square" alt="flypy-typing stars" />
   </a>
 </p>
 
 ---
 
-## 我在做什么
+## 关于我
 
-我专注在三类项目：
+我主要做三类项目：
 
-1. **输入效率工具**  
-   通过更低摩擦的人机交互，让输入、编辑、检索变快。
-2. **AI 工具化落地**  
-   把模型能力变成可部署、可维护、可持续迭代的小产品。
-3. **信息聚合与分析**  
-   面向真实场景，把“数据 -> 结论 -> 行动”串起来。
+- **企业与管理系统**：围绕库存、后台管理、数据流转和业务流程，构建完整的前后端系统。
+- **效率与训练工具**：把输入法训练、信息整理、自动化脚本做成可直接使用的工具。
+- **AI 应用与工作流**：关注模型能力接入、低成本部署、自动化分析和日常工作流整合。
 
----
-
-## 当前重点项目（Featured）
-
-### 1) [flypy-typing](https://github.com/slnlkd/flypy-typing)
-> 小鹤双拼练习平台：单字/文章、实时统计、错字分析、历史追踪。
-
-- 核心价值：
-  - 降低双拼入门成本
-  - 提升速度与准确率
-  - 基于错字数据做针对性训练
-- 技术栈：`React` `TypeScript` `Vite` `Zustand` `Tailwind CSS`
-- 适合人群：
-  - 双拼新手
-  - 想系统提速的进阶用户
-  - 希望通过数据驱动训练的用户
-
-### 2) [chatgpt-on-wechat](https://github.com/slnlkd/chatgpt-on-wechat)
-> 微信生态内的 AI 交互能力接入与部署实践。
-
-- 关注点：
-  - 低成本部署
-  - 稳定可用
-  - 与日常工作流结合
-
-### 3) [TrendRadar](https://github.com/slnlkd/TrendRadar)
-> 多平台热点聚合 + AI 分析，服务于内容追踪和趋势洞察。
-
-- 关注点：
-  - 多源数据汇总
-  - 自动化摘要与标签化
-  - 提升信息处理效率
+当前公开仓库以 `.NET / C#`、`TypeScript / JavaScript`、`Python` 为主，也会持续整理自托管服务、AI Agent、信息聚合与移动端工具相关实践。
 
 ---
 
-## 技术能力矩阵
+## 重点项目
 
-| 方向 | 技术 | 使用场景 |
-|---|---|---|
-| 前端工程 | TypeScript, React, Vite, Tailwind | 工具型 Web 应用、交互效率优化 |
-| 后端/脚本 | Python, Node.js | 自动化任务、数据处理、接口编排 |
-| 工程化 | Git, Docker, Linux | 部署、环境一致性、迭代交付 |
-| AI 应用 | LLM 集成、Prompt 设计、工作流化 | 分析、问答、信息处理助手 |
+| 项目 | 方向 | 技术栈 | 说明 |
+|---|---|---|---|
+| [admin.net-wms](https://github.com/slnlkd/admin.net-wms) | 仓储与后台管理系统 | `C#` `TypeScript` `Vue` `Python` `Docker` | 当前最活跃的全栈项目，覆盖管理后台、业务接口与部署脚本。 |
+| [qingyin](https://github.com/slnlkd/qingyin) | 移动端打卡与监督应用 | `JavaScript` `Python` `CSS` `HTML` | 戒酒打卡与互相监督 Web 应用，支持连续打卡、监督群组与提醒。 |
+| [flypy-typing](https://github.com/slnlkd/flypy-typing) | 小鹤双拼训练工具 | `TypeScript` `Python` `CSS` | 单字/文章练习、实时统计、错字分析，面向输入效率提升。 |
+| [chatgpt-on-wechat](https://github.com/slnlkd/chatgpt-on-wechat) | 微信 AI 机器人 | `Python` `HTML` `Shell` | 基于 DeepSeek 的微信公众号 AI 机器人实践，关注低成本与稳定部署。 |
 
 ---
 
-## 开发状态（稳定可显示版）
+## 项目版图
+
+### 自研项目
+
+- [admin.net-wms](https://github.com/slnlkd/admin.net-wms)：仓储与后台管理相关的全栈系统。
+- [qingyin](https://github.com/slnlkd/qingyin)：移动端戒酒打卡与互相监督应用。
+- [flypy-typing](https://github.com/slnlkd/flypy-typing)：小鹤双拼打字练习与训练数据分析工具。
+- [chatgpt-on-wechat](https://github.com/slnlkd/chatgpt-on-wechat)：微信公众号 AI 机器人部署实践。
+
+### 关注方向
+
+- **AI Agent 与工具链**：[OpenManus](https://github.com/slnlkd/OpenManus)、[dify](https://github.com/slnlkd/dify)、[openclaw](https://github.com/slnlkd/openclaw)、[claw-code](https://github.com/slnlkd/claw-code)
+- **信息聚合与自动化**：[TrendRadar](https://github.com/slnlkd/TrendRadar)、[RSSHub](https://github.com/slnlkd/RSSHub)、[worldquant-miner](https://github.com/slnlkd/worldquant-miner)
+- **自托管与网络工具**：[homepage](https://github.com/slnlkd/homepage)、[uptime-kuma](https://github.com/slnlkd/uptime-kuma)、[x-ui-yg](https://github.com/slnlkd/x-ui-yg)、[ACL4SSR](https://github.com/slnlkd/ACL4SSR)
+
+---
+
+## 技术栈
+
+| 领域 | 技术 |
+|---|---|
+| 后端与业务系统 | `C#` `.NET` `Python` `Node.js` |
+| 前端与交互 | `TypeScript` `JavaScript` `Vue` `React` `Vite` `CSS` |
+| 数据与脚本 | `T-SQL` `PowerShell` `Shell` |
+| 部署与工程化 | `Git` `Docker` `Linux` `CI/CD` |
+| AI 应用 | `LLM API` `Agent Workflow` `Prompt Engineering` `MCP` |
 
 <p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slnlkd&theme=github" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slnlkd&theme=github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,vue,react,vite,python,nodejs,docker,git,linux,powershell" alt="Tech stack" />
+</p>
+
+---
+
+## GitHub 数据
+
+<p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slnlkd&theme=github" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slnlkd&theme=github" alt="Repository languages" />
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slnlkd&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slnlkd&theme=github" alt="Profile details" />
 </p>
 
 ---
 
-## Tech Stack
+## 构建原则
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,python,docker,git,linux" />
-</p>
-
----
-
-## 项目方法论（How I Build）
-
-- **问题先行**：先定义用户问题，再写功能。
-- **小步上线**：优先交付可用版本，持续迭代。
-- **数据反馈**：通过日志/统计验证功能是否真的有效。
-- **可维护性优先**：保持模块清晰，减少隐性复杂度。
+- **先解决真实问题**：功能从具体场景出发，避免为了技术而技术。
+- **可运行优先**：先交付稳定可用版本，再逐步增强体验与架构。
+- **可维护优先**：保持模块边界清晰，减少隐性依赖和重复逻辑。
+- **自动化优先**：能脚本化、容器化、流程化的环节尽量沉淀成工具。
 
 ---
 
-## 近期计划（Roadmap）
+## 联系
 
-- [ ] 持续优化 `flypy-typing` 的训练反馈机制
-- [ ] 增加更细粒度的错字分析与复习策略
-- [ ] 完善 AI 工具链项目的部署文档与示例
-- [ ] 打磨一套可复用的效率工具模板仓库
-
----
-
-## 联系与协作
-
-- GitHub: [@slnlkd](https://github.com/slnlkd)
-- Issues / PR: 欢迎交流产品想法、Bug 反馈、功能建议
-- 合作方向：输入法效率工具、AI 工作流、信息分析工具
+- GitHub：[slnlkd](https://github.com/slnlkd)
+- 交流方向：全栈业务系统、AI 工作流、输入效率工具、信息聚合与自动化
